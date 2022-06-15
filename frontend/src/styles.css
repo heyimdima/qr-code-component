@@ -13,6 +13,7 @@ body {
 
 body {
     font-family: 'Outfit', sans-serif;
+    background-color: var(--grayishBlue);
     margin: 0;
     display: flex;
     flex-direction: column;
