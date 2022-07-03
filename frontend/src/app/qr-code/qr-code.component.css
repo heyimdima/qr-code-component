@@ -1,9 +1,7 @@
 .container {
     background-color: var(--white);
-    
 }
 
 .qr-code {
     padding: 1em;
-    display: flex;
 }
